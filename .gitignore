@@ -1,0 +1,28 @@
+# Environment variables and sensitive files
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Data files (if they're large and you want to exclude)
+*.tif
+*.tiff
+data/
+
+# Temporary files
+*.tmp
+*.temp
