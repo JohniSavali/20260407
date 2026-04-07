@@ -19,9 +19,10 @@ Thumbs.db
 .idea/
 
 # Data files (if they're large and you want to exclude)
-*.tif
-*.tiff
-data/
+# Note: Keeping data/ directory for essential project files
+# *.tif
+# *.tiff
+# data/
 
 # Temporary files
 *.tmp
